@@ -12,3 +12,4 @@
 
 #6 Stramkale Emīlija
 
+Labdien skolot'aj. 
