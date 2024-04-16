@@ -2,3 +2,5 @@
 mans pirmais repozitorijs
 
 darbs ar GitHub
+
+Emīlija Stramkale
