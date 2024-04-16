@@ -4,3 +4,4 @@ mans pirmais repozitorijs
 darbs ar GitHub
 
 Emīlija Stramkale
+Spīdolas ģimnāzija
